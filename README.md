@@ -1,2 +1,1 @@
-# unicef-opensource-practice
-Open Source course Practice
+This is a repository for practicing the GitHub workflow.			
